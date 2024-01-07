@@ -14,3 +14,5 @@ sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubuserc
 
 For 14 X GPU use vast8.sh:
 sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/tonyiong1221/xenminer/main/vast14.sh && sudo chmod +x vast14.sh && sudo ./vast14.sh
+
+tail -f /root/XENGPUMiner/xengpuminer.log
